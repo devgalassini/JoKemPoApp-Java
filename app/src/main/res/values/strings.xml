@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">JoKemPoApp</string>
+    <string name="des_botao_pedra">Pedra</string>
+    <string name="des_botao_papel">Papel</string>
+    <string name="des_botao_tesoura">Tesoura</string>
+    <string name="versao_v">V 1.0.0</string>
+
+</resources>
